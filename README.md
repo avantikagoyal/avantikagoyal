@@ -1,6 +1,6 @@
 ### Hi! Welcome to my GitHub 👋
 
-- 🔭 I’m currently working on automating industry research from IBISWorld's reports
+- 🔭 I’m currently working on web scraping industry research from IBISWorld's reports
 - 🌱 I’m currently learning about time series forecasting in my MSBA program
 - 👯 I’m looking to collaborate on anything that piques my interest!
 - 💬 Ask me about my favorite podcasts on culture and social issues :)
