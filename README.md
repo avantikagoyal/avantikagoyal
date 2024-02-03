@@ -7,8 +7,6 @@
 
 Check out my repositories below for a deeper dive into my work!
 
-You can also take a look at my personal blog by clicking the link in my bio ~
-
 Thanks for visiting!
 
 <!--
