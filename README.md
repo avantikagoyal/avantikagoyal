@@ -1,6 +1,6 @@
 ### Hi! Welcome to my GitHub 👋
 
-- 🔭 I’m currently participating in the Google AI Hackathon to build a creative app that leverages Gemini
+- 🔭 I’m currently participating in the Google AI Hackathon to build a creative app that leverages the Gemini model
 - 🌱 I’m currently learning about AWS Computing to take the Certification Exam later this year
 - 👯 I’m looking to collaborate on anything that piques my interest!
 - 💬 Ask me about my favorite podcasts on culture, tech, and social issues :)
