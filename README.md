@@ -1,7 +1,7 @@
 ### Hi! Welcome to my GitHub 👋
 
 - 🔭 I’m currently working on a sentiment analysis project to predict the success of film screenplays
-- 🌱 I’m currently learning about Apache Spark and Scalable ML in order take the Databricks Machine Learning Associate Exam
+- 🌱 I’m currently learning about Apache Spark and Scalable ML to prepare for the Databricks Machine Learning Associate Exam
 - 👯 I’m looking to collaborate on anything that piques my interest!
 - 💬 Ask me about my favorite podcasts on culture, tech, and media :)
 
